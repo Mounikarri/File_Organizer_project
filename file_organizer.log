@@ -1,0 +1,350 @@
+2025-06-26 12:25:09,697 - ERROR - Failed to move '#mahadev.jpeg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,710 - ERROR - Failed to move '098b3ed1-3afc-4ea0-8e48-f1a0ae9d09f9.jpeg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,714 - INFO - Created folder: C:\Users\karri\Downloads\Documents
+2025-06-26 12:25:09,714 - INFO - Moved '1-OS Fundamentals.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,718 - INFO - Moved '1745234628688_ece642be_420b_4e50_bed7_3a93bba1b0f4_submission_file (1).docx' to 'Documents' folder.
+2025-06-26 12:25:09,718 - INFO - Moved '1745234628688_ece642be_420b_4e50_bed7_3a93bba1b0f4_submission_file.docx' to 'Documents' folder.
+2025-06-26 12:25:09,718 - INFO - Moved '1745512560442_ef4ff289_5b00_4f03_a7e3_cb2450063a8e_submission_file.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,718 - INFO - Moved '1746633016047_c4a8f70a_19c5_4f9d_8969_e07a25397baf_submission_file (3).pdf' to 'Documents' folder.
+2025-06-26 12:25:09,718 - INFO - Created folder: C:\Users\karri\Downloads\Others
+2025-06-26 12:25:09,728 - INFO - Moved '2.8.1-video-activity---test-the-interface-assignment.pkt' to 'Others' folder.
+2025-06-26 12:25:09,728 - INFO - Moved '2.8.2-video-activity---test-end-to-end-connectivity.pkt' to 'Others' folder.
+2025-06-26 12:25:09,728 - INFO - Moved '21.04.24_OSR.STAR CO-SC_JEE-ADV_2023_P1_GTA-7(P1)_QP.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,728 - INFO - Moved '25.04.24_OSR.STAR CO-SC_JEE-ADV_2023_P1_GTA-8(P2)_QP @.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,734 - INFO - Moved '28.04.24_OSR.STAR CO-SC_JEE-ADV_2021_P2_GTA-9(P2)_QP.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,734 - INFO - Moved '369d4e8d31c122f3476c3af1f22cb505d77063f3dff512def556bf9820de3af7_encrypt_signedFinal (1).pdf' to 'Documents' folder.
+2025-06-26 12:25:09,734 - INFO - Moved '369d4e8d31c122f3476c3af1f22cb505d77063f3dff512def556bf9820de3af7_encrypt_signedFinal.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,740 - INFO - Moved '5_6089351125566231987.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,743 - ERROR - Failed to move '6333_Reading-a-book-on-green-meadow-relaxing-summer-time.jpg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,745 - INFO - Moved '65a78da3357f0_data_preprocessing (1).zip' to 'Others' folder.
+2025-06-26 12:25:09,745 - INFO - Moved '65a78da3357f0_data_preprocessing.zip' to 'Others' folder.
+2025-06-26 12:25:09,747 - INFO - Moved '6620d404d903f_datasets.zip' to 'Others' folder.
+2025-06-26 12:25:09,747 - INFO - Moved '8051.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,751 - INFO - Moved '8085 Microprocessor - Ramesh Gaonkar.pdf-27.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,751 - INFO - Moved '8086 Architecture.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,751 - INFO - Moved 'Aadhaar card .pdf' to 'Documents' folder.
+2025-06-26 12:25:09,751 - INFO - Moved 'Aadhar  (1).pdf' to 'Documents' folder.
+2025-06-26 12:25:09,751 - INFO - Moved 'Aadhar .pdf' to 'Documents' folder.
+2025-06-26 12:25:09,751 - INFO - Moved 'Aadhar _compressed (1).pdf' to 'Documents' folder.
+2025-06-26 12:25:09,751 - INFO - Moved 'Aadhar _compressed.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,763 - INFO - Moved 'academy-regular (1).ovpn' to 'Others' folder.
+2025-06-26 12:25:09,763 - INFO - Moved 'academy-regular.ovpn' to 'Others' folder.
+2025-06-26 12:25:09,767 - ERROR - Failed to move 'ActivityDig.drawio.png': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,767 - INFO - Moved 'Alteryx Process Document Updated (1).pdf' to 'Documents' folder.
+2025-06-26 12:25:09,767 - INFO - Moved 'Alteryx Process Document Updated (2).pdf' to 'Documents' folder.
+2025-06-26 12:25:09,767 - INFO - Moved 'Alteryx Process Document Updated (3).pdf' to 'Documents' folder.
+2025-06-26 12:25:09,767 - INFO - Moved 'Alteryx Process Document Updated.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,767 - ERROR - Failed to move 'alteryx-foundational-micro-credential.png': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,767 - INFO - Moved 'Alteryx_Foundational_Micro_Credential_Badge20240910-7-av9hqu.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,767 - INFO - Moved 'Alteryx_Foundational_Micro_Credential_Badge20240910-7-l6okos.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,767 - INFO - Moved 'Anaconda3-2024.06-1-Windows-x86_64.exe' to 'Others' folder.
+2025-06-26 12:25:09,783 - INFO - Moved 'apache-maven-3.9.4-bin (1).tar.gz' to 'Others' folder.
+2025-06-26 12:25:09,783 - INFO - Moved 'apache-maven-3.9.9-bin.zip' to 'Others' folder.
+2025-06-26 12:25:09,785 - INFO - Moved 'apache-tomcat-8.5.93.exe' to 'Others' folder.
+2025-06-26 12:25:09,785 - INFO - Moved 'app (1).js' to 'Others' folder.
+2025-06-26 12:25:09,785 - INFO - Moved 'applikp.pem' to 'Others' folder.
+2025-06-26 12:25:09,785 - INFO - Moved 'Assignment-2.doc' to 'Documents' folder.
+2025-06-26 12:25:09,785 - INFO - Moved 'AU OOSE LAB MANUAL.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,785 - INFO - Moved 'AWSCLIV2.msi' to 'Others' folder.
+2025-06-26 12:25:09,785 - INFO - Moved 'background 7.avif' to 'Others' folder.
+2025-06-26 12:25:09,785 - INFO - Moved 'background.img' to 'Others' folder.
+2025-06-26 12:25:09,785 - ERROR - Failed to move 'belive in yourself.jpeg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,799 - INFO - Moved 'bg 4.avif' to 'Others' folder.
+2025-06-26 12:25:09,799 - ERROR - Failed to move 'bk 1.jpg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,799 - INFO - Moved 'book backgrnd.mhtml' to 'Others' folder.
+2025-06-26 12:25:09,805 - ERROR - Failed to move 'Book Stack Hd Transparent, A Stack Of Books Decoration Illustration, Book Clipart, A Stack Of Books, School Supplies PNG Image For Free Download (1).jpeg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,805 - ERROR - Failed to move 'Book Stack Hd Transparent, A Stack Of Books Decoration Illustration, Book Clipart, A Stack Of Books, School Supplies PNG Image For Free Download.jpeg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,807 - ERROR - Failed to move 'Book Stack White Transparent, Neatly Stacked Books With Sketch Lines, Sketch, Line, Stacking PNG Image For Free Download.jpeg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,807 - ERROR - Failed to move 'books bg.jpg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,809 - ERROR - Failed to move 'books download.jpeg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,809 - INFO - Moved 'Broken access control .pdf' to 'Documents' folder.
+2025-06-26 12:25:09,815 - INFO - Moved 'burpsuite_community_windows-x64_v2025_3_2.exe' to 'Others' folder.
+2025-06-26 12:25:09,818 - INFO - Moved 'Canva Setup 1.100.0.exe' to 'Others' folder.
+2025-06-26 12:25:09,818 - INFO - Moved 'Caste.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,820 - INFO - Moved 'CC Unit 5.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,820 - ERROR - Failed to move 'ccna-introduction-to-networks.png': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,820 - ERROR - Failed to move 'ccna-switching-routing-and-wireless-essentials.1.png': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,820 - INFO - Moved 'Certificate for Karri Mounika (1).pdf' to 'Documents' folder.
+2025-06-26 12:25:09,820 - INFO - Moved 'Certificate for Karri Mounika.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,820 - INFO - Moved 'CertificateVerifier.sol' to 'Others' folder.
+2025-06-26 12:25:09,831 - ERROR - Failed to move 'ChatGPT Image Apr 23, 2025, 03_21_39 PM (1).png': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,832 - ERROR - Failed to move 'ChatGPT Image Apr 23, 2025, 03_21_39 PM.png': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,832 - INFO - Moved 'CISSP Cheat Sheet All Domains.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,832 - INFO - Moved 'Control structures and loops.docx' to 'Documents' folder.
+2025-06-26 12:25:09,832 - INFO - Moved 'cryptography-and-network-security_compress.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,832 - INFO - Moved 'CSE Timetables (11) - Copy (5).xlsx' to 'Documents' folder.
+2025-06-26 12:25:09,832 - INFO - Moved 'curl-8.11.0_2-win64-mingw.zip' to 'Others' folder.
+2025-06-26 12:25:09,832 - INFO - Moved 'CURSORS N TRIG.docx' to 'Documents' folder.
+2025-06-26 12:25:09,841 - INFO - Moved 'cwec2.pem' to 'Others' folder.
+2025-06-26 12:25:09,844 - INFO - Moved 'Cybersecurity(3).pdf' to 'Documents' folder.
+2025-06-26 12:25:09,845 - INFO - Moved 'Cybersecurity_2.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,845 - INFO - Moved 'Cybersecurity_3.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,845 - INFO - Moved 'Cybersecurity_Mounika.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,845 - INFO - Moved 'Data Types.docx' to 'Documents' folder.
+2025-06-26 12:25:09,845 - INFO - Moved 'Data Visualization.docx' to 'Documents' folder.
+2025-06-26 12:25:09,845 - INFO - Moved 'Data Visualization.html' to 'Others' folder.
+2025-06-26 12:25:09,845 - INFO - Moved 'data.csv' to 'Others' folder.
+2025-06-26 12:25:09,852 - INFO - Moved 'data.csv.xlsx' to 'Documents' folder.
+2025-06-26 12:25:09,852 - ERROR - Failed to move 'deepwork.jpg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,852 - INFO - Moved 'demo.zip' to 'Others' folder.
+2025-06-26 12:25:09,852 - INFO - Moved 'Department Wise Eligibility.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,852 - ERROR - Failed to move 'desktop-wallpaper-background-for-html-page-html-css.jpg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,852 - INFO - Moved 'desktop.ini' to 'Others' folder.
+2025-06-26 12:25:09,860 - INFO - Moved 'Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup.exe' to 'Others' folder.
+2025-06-26 12:25:09,860 - INFO - Moved 'devcpp-4.9.9.2_setup (1).exe' to 'Others' folder.
+2025-06-26 12:25:09,860 - INFO - Moved 'devcpp-4.9.9.2_setup (2).exe' to 'Others' folder.
+2025-06-26 12:25:09,860 - INFO - Moved 'devcpp-4.9.9.2_setup (3).exe' to 'Others' folder.
+2025-06-26 12:25:09,860 - INFO - Moved 'devcpp-4.9.9.2_setup.exe' to 'Others' folder.
+2025-06-26 12:25:09,860 - INFO - Moved 'devcpp401 (1).zip' to 'Others' folder.
+2025-06-26 12:25:09,860 - INFO - Moved 'devcpp401 (2).zip' to 'Others' folder.
+2025-06-26 12:25:09,860 - INFO - Moved 'devcpp401.zip' to 'Others' folder.
+2025-06-26 12:25:09,860 - INFO - Moved 'DiscordSetup.exe' to 'Others' folder.
+2025-06-26 12:25:09,860 - INFO - Moved 'display.html' to 'Others' folder.
+2025-06-26 12:25:09,860 - INFO - Moved 'display.jsp' to 'Others' folder.
+2025-06-26 12:25:09,860 - INFO - Moved 'doc 1.webp' to 'Others' folder.
+2025-06-26 12:25:09,860 - INFO - Moved 'Docker Desktop Installer.exe' to 'Others' folder.
+2025-06-26 12:25:09,875 - ERROR - Failed to move 'dowmload 4.png': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,875 - ERROR - Failed to move 'download (1).jpeg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,875 - ERROR - Failed to move 'download 1.png': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,875 - ERROR - Failed to move 'download 2.png': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,875 - ERROR - Failed to move 'download 3.png': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,875 - ERROR - Failed to move 'download 5.png': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,875 - ERROR - Failed to move 'download.jpeg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,875 - ERROR - Failed to move 'e3be09bd-ba12-4b9d-831b-92e4606d3930.jpeg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,875 - INFO - Moved 'EmailTest.txt' to 'Documents' folder.
+2025-06-26 12:25:09,875 - ERROR - Failed to move 'email_security_associate.png': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,875 - INFO - Moved 'Ex8-KNN.docx' to 'Documents' folder.
+2025-06-26 12:25:09,875 - INFO - Moved 'Explainable AI (XAI).docx' to 'Documents' folder.
+2025-06-26 12:25:09,875 - ERROR - Failed to move 'f55c258e826e.png': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,875 - ERROR - Failed to move 'fb48443ec9d3.png': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,875 - INFO - Moved 'FIITJEE 05-05-24 ADV P-1 SOL.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,875 - INFO - Moved 'File Handling (1).docx' to 'Documents' folder.
+2025-06-26 12:25:09,875 - INFO - Moved 'File Handling.docx' to 'Documents' folder.
+2025-06-26 12:25:09,891 - ERROR - Failed to move 'file_security_associate.png': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,891 - INFO - Moved 'FOREIGN KEY DELETE CASCADE (1).docx' to 'Documents' folder.
+2025-06-26 12:25:09,891 - INFO - Moved 'FOREIGN KEY DELETE CASCADE.docx' to 'Documents' folder.
+2025-06-26 12:25:09,891 - INFO - Moved 'form.html' to 'Others' folder.
+2025-06-26 12:25:09,891 - ERROR - Failed to move 'Free Vector _ Hand drawn flat design stack of books illustration.jpeg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,891 - INFO - Moved 'Git-2.47.0.2-64-bit.exe' to 'Others' folder.
+2025-06-26 12:25:09,891 - ERROR - Failed to move 'githa.jpeg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,891 - INFO - Moved 'google-gdg-cloud-san-jose-presents-llm-agents-1-of-5-2024-05-25.ics' to 'Others' folder.
+2025-06-26 12:25:09,891 - INFO - Moved 'Hamming code  in C program (1).docx' to 'Documents' folder.
+2025-06-26 12:25:09,891 - INFO - Moved 'Hamming code  in C program.docx' to 'Documents' folder.
+2025-06-26 12:25:09,891 - INFO - Moved 'HateSpeechRecog.ipynb' to 'Others' folder.
+2025-06-26 12:25:09,891 - INFO - Moved 'IC-Project-Management-Business-Requirements-Document-11238_WORD.dotx' to 'Others' folder.
+2025-06-26 12:25:09,891 - INFO - Moved 'IITM Bonafide .pdf' to 'Documents' folder.
+2025-06-26 12:25:09,891 - ERROR - Failed to move 'ima.jpg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,891 - ERROR - Failed to move 'ima2.jpg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,907 - ERROR - Failed to move 'ima3.jpeg': [WinError 3] The system cannot find the path specified
+2025-06-26 12:25:09,908 - INFO - Moved 'images' to 'Others' folder.
+2025-06-26 12:25:09,908 - INFO - Created folder: C:\Users\karri\Downloads\Images
+2025-06-26 12:25:09,908 - INFO - Moved 'images (1).jpeg' to 'Images' folder.
+2025-06-26 12:25:09,908 - INFO - Moved 'images (2).jpeg' to 'Images' folder.
+2025-06-26 12:25:09,910 - INFO - Moved 'images (3).jpeg' to 'Images' folder.
+2025-06-26 12:25:09,910 - INFO - Moved 'images (3).jpg' to 'Images' folder.
+2025-06-26 12:25:09,910 - INFO - Moved 'images (4).jpeg' to 'Images' folder.
+2025-06-26 12:25:09,912 - INFO - Moved 'images (5).jpeg' to 'Images' folder.
+2025-06-26 12:25:09,912 - INFO - Moved 'images (5).jpg' to 'Images' folder.
+2025-06-26 12:25:09,912 - INFO - Moved 'images (6).jpeg' to 'Images' folder.
+2025-06-26 12:25:09,912 - INFO - Moved 'images (6).jpg' to 'Images' folder.
+2025-06-26 12:25:09,912 - INFO - Moved 'images (7).jpeg' to 'Images' folder.
+2025-06-26 12:25:09,912 - INFO - Moved 'images (8).jpeg' to 'Images' folder.
+2025-06-26 12:25:09,912 - INFO - Moved 'images.jpeg' to 'Images' folder.
+2025-06-26 12:25:09,912 - INFO - Moved 'index1.html' to 'Others' folder.
+2025-06-26 12:25:09,912 - INFO - Moved 'INTERNSHIP REPORT-of Senior .docx' to 'Documents' folder.
+2025-06-26 12:25:09,918 - INFO - Moved 'INTRODUCTION TO PYTHON.docx' to 'Documents' folder.
+2025-06-26 12:25:09,920 - INFO - Moved 'introduction_to_cip (1).png' to 'Images' folder.
+2025-06-26 12:25:09,920 - INFO - Moved 'introduction_to_cip.png' to 'Images' folder.
+2025-06-26 12:25:09,920 - INFO - Moved 'java-hello-world-webapp.rar' to 'Others' folder.
+2025-06-26 12:25:09,920 - INFO - Moved 'JDBC (1).docx' to 'Documents' folder.
+2025-06-26 12:25:09,923 - INFO - Moved 'JDBC.docx' to 'Documents' folder.
+2025-06-26 12:25:09,923 - INFO - Moved 'jdk-22_windows-x64_bin.zip' to 'Others' folder.
+2025-06-26 12:25:09,926 - INFO - Moved 'jdk-8u201-windows-x64.exe' to 'Others' folder.
+2025-06-26 12:25:09,926 - INFO - Moved 'JEE Advanced Mathematics - Career Point Kota @JEEBookPDFs (1).pdf' to 'Documents' folder.
+2025-06-26 12:25:09,927 - INFO - Moved 'JEE Advanced Mathematics - Career Point Kota @JEEBookPDFs (2).pdf' to 'Documents' folder.
+2025-06-26 12:25:09,928 - INFO - Moved 'JEE Advanced Mathematics - Career Point Kota @JEEBookPDFs.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,928 - INFO - Moved 'K Janaki(322103210058).docx' to 'Documents' folder.
+2025-06-26 12:25:09,928 - INFO - Moved 'k-fold  .ipynb' to 'Others' folder.
+2025-06-26 12:25:09,930 - INFO - Moved 'k-means (1).ipynb' to 'Others' folder.
+2025-06-26 12:25:09,930 - INFO - Moved 'k-means.ipynb' to 'Others' folder.
+2025-06-26 12:25:09,930 - INFO - Moved 'K.Janaki(322103210058).zip' to 'Others' folder.
+2025-06-26 12:25:09,933 - INFO - Moved 'Karri_Mounika_Resume.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,934 - INFO - Moved 'knn (1).ipynb' to 'Others' folder.
+2025-06-26 12:25:09,934 - INFO - Moved 'knn.ipynb' to 'Others' folder.
+2025-06-26 12:25:09,934 - INFO - Moved 'Lab1.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,934 - INFO - Moved 'legacy_system_security_associate.png' to 'Images' folder.
+2025-06-26 12:25:09,934 - INFO - Moved 'Linux_Fundamentals_Module_Cheat_Sheet.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,939 - INFO - Moved 'logo.png' to 'Images' folder.
+2025-06-26 12:25:09,940 - INFO - Moved 'LunchTempKP.pem' to 'Others' folder.
+2025-06-26 12:25:09,940 - INFO - Moved 'MACHINE LEARNING(R17A0534).pdf' to 'Documents' folder.
+2025-06-26 12:25:09,941 - INFO - Moved 'ML NOTES.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,942 - INFO - Moved 'ML_Textbook.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,942 - INFO - Moved 'MO-17423960393CR.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,942 - INFO - Moved 'MobaXterm_Installer_v24.1.zip' to 'Others' folder.
+2025-06-26 12:25:09,942 - INFO - Moved 'mongodb-windows-x86_64-7.0.11-signed.msi' to 'Others' folder.
+2025-06-26 12:25:09,942 - INFO - Moved 'mongosh-2.2.6-win32-x64.zip' to 'Others' folder.
+2025-06-26 12:25:09,948 - INFO - Moved 'Mouni  (1).pdf' to 'Documents' folder.
+2025-06-26 12:25:09,948 - INFO - Moved 'Mouni  (2).pdf' to 'Documents' folder.
+2025-06-26 12:25:09,948 - INFO - Moved 'Mouni  (3).pdf' to 'Documents' folder.
+2025-06-26 12:25:09,948 - INFO - Moved 'Mouni  (4).pdf' to 'Documents' folder.
+2025-06-26 12:25:09,948 - INFO - Moved 'Mouni .pdf' to 'Documents' folder.
+2025-06-26 12:25:09,948 - INFO - Moved 'Mouni.pem' to 'Others' folder.
+2025-06-26 12:25:09,948 - INFO - Moved 'Mounika keypair.pem' to 'Others' folder.
+2025-06-26 12:25:09,948 - INFO - Moved 'Mounika_1_credentials.csv' to 'Others' folder.
+2025-06-26 12:25:09,955 - INFO - Moved 'Mounika_2_credentials.csv' to 'Others' folder.
+2025-06-26 12:25:09,956 - INFO - Moved 'Mounika_credentials.csv' to 'Others' folder.
+2025-06-26 12:25:09,957 - INFO - Moved 'Names-Of-Endangered-Animals-For-Kids.jpg' to 'Images' folder.
+2025-06-26 12:25:09,958 - INFO - Moved 'Nature_and_Man_Together_always.jpg' to 'Images' folder.
+2025-06-26 12:25:09,959 - INFO - Moved 'ncc pic2.jpeg' to 'Images' folder.
+2025-06-26 12:25:09,959 - INFO - Moved 'nccs pic.jpeg' to 'Images' folder.
+2025-06-26 12:25:09,961 - INFO - Moved 'new background.jpeg' to 'Images' folder.
+2025-06-26 12:25:09,962 - INFO - Moved 'new.jpg' to 'Images' folder.
+2025-06-26 12:25:09,962 - INFO - Moved 'newspaper.jpeg' to 'Images' folder.
+2025-06-26 12:25:09,963 - INFO - Moved 'Nmap.docx' to 'Documents' folder.
+2025-06-26 12:25:09,963 - INFO - Moved 'node-v20.13.1-x64.msi' to 'Others' folder.
+2025-06-26 12:25:09,965 - INFO - Moved 'notebook-and-a-glass-of-milk-on-the-desk-free-photo.jpg' to 'Images' folder.
+2025-06-26 12:25:09,965 - INFO - Moved 'numpy questions.docx' to 'Documents' folder.
+2025-06-26 12:25:09,965 - INFO - Moved 'Objectdaig.drawio.png' to 'Images' folder.
+2025-06-26 12:25:09,965 - INFO - Moved 'Objectdig.drawio' to 'Others' folder.
+2025-06-26 12:25:09,965 - INFO - Moved 'OBJECT_ORIENTED_SOFTWARE[1] (1).docx' to 'Documents' folder.
+2025-06-26 12:25:09,967 - INFO - Moved 'OBJECT_ORIENTED_SOFTWARE[1].docx' to 'Documents' folder.
+2025-06-26 12:25:09,967 - INFO - Moved 'Om Namah Shivay \U0001f549\ufe0f\U0001f6a9.jpeg' to 'Images' folder.
+2025-06-26 12:25:09,971 - INFO - Moved 'online articles.jpeg' to 'Images' folder.
+2025-06-26 12:25:09,971 - INFO - Moved 'OOSE Notes .pdf' to 'Documents' folder.
+2025-06-26 12:25:09,972 - INFO - Moved 'oose_rec (1).docx' to 'Documents' folder.
+2025-06-26 12:25:09,972 - INFO - Moved 'oose_rec (2).docx' to 'Documents' folder.
+2025-06-26 12:25:09,972 - INFO - Moved 'oose_rec.docx' to 'Documents' folder.
+2025-06-26 12:25:09,974 - INFO - Moved 'OPSWAT .pdf' to 'Documents' folder.
+2025-06-26 12:25:09,974 - INFO - Moved 'Oracle10g_express_edition.exe' to 'Others' folder.
+2025-06-26 12:25:09,976 - INFO - Moved 'packet-tracer-logical-and-physical-mode-exploration.pksz' to 'Others' folder.
+2025-06-26 12:25:09,976 - INFO - Moved 'packet-tracer-troubleshoot-a-wireless-connection.pksz' to 'Others' folder.
+2025-06-26 12:25:09,978 - INFO - Moved 'pandas_basics_ques (1).docx' to 'Documents' folder.
+2025-06-26 12:25:09,980 - INFO - Moved 'pandas_basics_ques (2).docx' to 'Documents' folder.
+2025-06-26 12:25:09,982 - INFO - Moved 'pandas_basics_ques.docx' to 'Documents' folder.
+2025-06-26 12:25:09,982 - INFO - Moved 'PanDoc_unlocked.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,983 - INFO - Moved 'pcalib.html' to 'Others' folder.
+2025-06-26 12:25:09,984 - INFO - Moved 'PDFGallery_20250331_111107.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,985 - INFO - Moved 'PDFGallery_20250331_111402.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,986 - INFO - Moved 'PDFGallery_20250331_112224.pdf' to 'Documents' folder.
+2025-06-26 12:25:09,988 - INFO - Moved 'phishingtools.zip' to 'Others' folder.
+2025-06-26 12:25:09,988 - INFO - Moved 'phishingtools2.zip' to 'Others' folder.
+2025-06-26 12:25:09,988 - INFO - Moved 'Pictures Of Shiva.jpeg' to 'Images' folder.
+2025-06-26 12:25:09,990 - INFO - Moved 'pngtree-color-painting-creative-outdoor-book-background-design-picture-image_1637440.jpg' to 'Images' folder.
+2025-06-26 12:25:09,991 - INFO - Moved 'power.jpeg' to 'Images' folder.
+2025-06-26 12:25:09,992 - INFO - Moved 'PREPROCESSING &PCA.docx' to 'Documents' folder.
+2025-06-26 12:25:09,993 - INFO - Moved 'PrivateKeypair.pem' to 'Others' folder.
+2025-06-26 12:25:09,993 - INFO - Moved 'professional-background-xq91qzxwpkutm25o.jpg' to 'Images' folder.
+2025-06-26 12:25:09,993 - INFO - Moved 'Programs on File handling.docx' to 'Documents' folder.
+2025-06-26 12:25:09,996 - INFO - Moved 'project_key.pem' to 'Others' folder.
+2025-06-26 12:25:09,996 - INFO - Moved 'publicEc2.pem' to 'Others' folder.
+2025-06-26 12:25:09,998 - INFO - Moved 'pycharm-community-2024.1.1.exe' to 'Others' folder.
+2025-06-26 12:25:09,998 - INFO - Moved 'python-3.12.2-amd64 (3).exe' to 'Others' folder.
+2025-06-26 12:25:09,998 - INFO - Moved 'python_ec2.pem' to 'Others' folder.
+2025-06-26 12:25:10,001 - INFO - Moved 'qa8PC8YQ8eToimabq1T6ILQLcw4ItpobZWrA8TJd.docx' to 'Documents' folder.
+2025-06-26 12:25:10,002 - INFO - Moved 'queries on employee database.docx' to 'Documents' folder.
+2025-06-26 12:25:10,002 - INFO - Moved 'raptor2019.msi' to 'Others' folder.
+2025-06-26 12:25:10,003 - INFO - Moved 'report writing.docx' to 'Documents' folder.
+2025-06-26 12:25:10,004 - INFO - Moved 'SAMPLE OOSE LAB MANUAL.pdf' to 'Documents' folder.
+2025-06-26 12:25:10,005 - INFO - Moved 'Sample.pem' to 'Others' folder.
+2025-06-26 12:25:10,006 - INFO - Moved 'sample_Ec2.pem' to 'Others' folder.
+2025-06-26 12:25:10,006 - INFO - Moved 'Screenshot_10-7-2024_214944_.jpeg' to 'Images' folder.
+2025-06-26 12:25:10,009 - INFO - Moved 'SDLC (1).docx' to 'Documents' folder.
+2025-06-26 12:25:10,009 - INFO - Moved 'SDLC (2).docx' to 'Documents' folder.
+2025-06-26 12:25:10,011 - INFO - Moved 'SDLC.docx' to 'Documents' folder.
+2025-06-26 12:25:10,011 - INFO - Moved 'searching and sorting.docx' to 'Documents' folder.
+2025-06-26 12:25:10,013 - INFO - Moved 'secure_storage_associate.png' to 'Images' folder.
+2025-06-26 12:25:10,014 - INFO - Moved 'shankaracharya-temple.jpg' to 'Images' folder.
+2025-06-26 12:25:10,015 - INFO - Moved 'Simple2_ec2.pem' to 'Others' folder.
+2025-06-26 12:25:10,015 - INFO - Moved 'slidesgo-advancements-and-applications-of-natural-language-processing-transforming-communication-through-tec-20241114050800CSIL.pdf' to 'Documents' folder.
+2025-06-26 12:25:10,017 - INFO - Moved 'slidesgo-advancements-and-applications-of-natural-language-processing-transforming-communication-through-tec-20241114050944ZabC.pdf' to 'Documents' folder.
+2025-06-26 12:25:10,018 - INFO - Moved 'slidesgo-demystifying-the-black-box-unveiling-the-secrets-of-explainable-ai-20240915121013HSuQ.pdf' to 'Documents' folder.
+2025-06-26 12:25:10,019 - INFO - Moved 'slidesgo-enhancing-transparency-in-artificial-intelligence-a-comprehensive-overview-of-explainable-ai-and-it-20240915121349c2b2.pdf' to 'Documents' folder.
+2025-06-26 12:25:10,020 - INFO - Moved 'slidesgo-enhancing-transparency-in-artificial-intelligence-the-role-of-explainable-ai-xai-in-human-underst-20240915114931jXPm.pdf' to 'Documents' folder.
+2025-06-26 12:25:10,021 - INFO - Moved 'slidesgo-exploring-the-landscape-of-natural-language-processing-fundamentals-techniques-applications-and-20241114022259avkW.pdf' to 'Documents' folder.
+2025-06-26 12:25:10,022 - INFO - Moved 'slidesgo-exploring-the-landscape-of-natural-language-processing-fundamentals-techniques-applications-and-20241114022259avkW.pptx' to 'Documents' folder.
+2025-06-26 12:25:10,023 - INFO - Moved 'sql functions doc.docx' to 'Documents' folder.
+2025-06-26 12:25:10,025 - INFO - Moved 'SQL views.docx' to 'Documents' folder.
+2025-06-26 12:25:10,025 - INFO - Moved 'srmug (1).exe' to 'Others' folder.
+2025-06-26 12:25:10,026 - INFO - Moved 'srmug.exe' to 'Others' folder.
+2025-06-26 12:25:10,026 - INFO - Moved 'strings  prgs.docx' to 'Documents' folder.
+2025-06-26 12:25:10,029 - INFO - Moved 'strings.docx' to 'Documents' folder.
+2025-06-26 12:25:10,030 - INFO - Moved 'Student_um.47dc0257dd139569124f.pdf' to 'Documents' folder.
+2025-06-26 12:25:10,031 - INFO - Moved 'studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-71515.avif' to 'Others' folder.
+2025-06-26 12:25:10,039 - INFO - Moved 'Study.pdf' to 'Documents' folder.
+2025-06-26 12:25:10,041 - INFO - Moved 'summer-background-abstract-background-wallpaper-use-for-presentation_HDDYoJOhMg_thumb.jpg' to 'Images' folder.
+2025-06-26 12:25:10,042 - INFO - Moved 'swipl-9.2.8-1.x64.exe' to 'Others' folder.
+2025-06-26 12:25:10,044 - INFO - Moved 'Tech Startup XL by Slidesgo.pptx' to 'Documents' folder.
+2025-06-26 12:25:10,044 - INFO - Moved 'the hindu.png' to 'Images' folder.
+2025-06-26 12:25:10,044 - INFO - Moved 'Time series stock market_20250417_183146_0000.pdf' to 'Documents' folder.
+2025-06-26 12:25:10,047 - INFO - Moved 'train.csv' to 'Others' folder.
+2025-06-26 12:25:10,047 - INFO - Moved 'train_journey_details.xlsx' to 'Documents' folder.
+2025-06-26 12:25:10,050 - INFO - Moved 'train_journey_details_100 (1).xlsx' to 'Documents' folder.
+2025-06-26 12:25:10,050 - INFO - Moved 'train_journey_details_100.xlsx' to 'Documents' folder.
+2025-06-26 12:25:10,052 - INFO - Moved 'train_reserv.sql' to 'Others' folder.
+2025-06-26 12:25:10,052 - INFO - Moved 'TRAVEL WEBSITE  REPORT.zip' to 'Others' folder.
+2025-06-26 12:25:10,054 - INFO - Moved 'travel-concept-traveling-background-vector-20205653.jpg' to 'Images' folder.
+2025-06-26 12:25:10,054 - INFO - Moved 'twitter_data.csv' to 'Others' folder.
+2025-06-26 12:25:10,056 - INFO - Moved 'Under25.docx' to 'Documents' folder.
+2025-06-26 12:25:10,058 - INFO - Moved 'verify.html' to 'Others' folder.
+2025-06-26 12:25:10,060 - INFO - Moved 'VirtualBox-7.0.10-158379-Win (1).exe' to 'Others' folder.
+2025-06-26 12:25:10,061 - INFO - Moved 'VirtualBox-7.0.10-158379-Win.exe' to 'Others' folder.
+2025-06-26 12:25:10,063 - INFO - Moved 'vpc_auth.pem' to 'Others' folder.
+2025-06-26 12:25:10,063 - INFO - Moved 'VSCodeUserSetup-x64-1.87.1.exe' to 'Others' folder.
+2025-06-26 12:25:10,065 - INFO - Moved 'Wallpaper.jpeg' to 'Images' folder.
+2025-06-26 12:25:10,065 - INFO - Moved 'watchkp.pem' to 'Others' folder.
+2025-06-26 12:25:10,065 - INFO - Moved 'web wall.mhtml' to 'Others' folder.
+2025-06-26 12:25:10,067 - INFO - Moved 'web.docx' to 'Documents' folder.
+2025-06-26 12:25:10,067 - INFO - Moved 'WEBEX.docx' to 'Documents' folder.
+2025-06-26 12:25:10,067 - INFO - Moved 'web_traffic_protection_associate.png' to 'Images' folder.
+2025-06-26 12:25:10,067 - INFO - Moved 'WEEK-1.docx' to 'Documents' folder.
+2025-06-26 12:25:10,071 - INFO - Moved 'Week-2 programs.docx' to 'Documents' folder.
+2025-06-26 12:25:10,071 - INFO - Moved 'WhatsApp Image 2025-01-22 at 9.42.46 PM.jpeg' to 'Images' folder.
+2025-06-26 12:25:10,074 - INFO - Moved 'WhatsApp Image 2025-02-17 at 6.39.20 AM.jpeg' to 'Images' folder.
+2025-06-26 12:25:10,074 - INFO - Moved 'WhatsApp Image 2025-04-17 at 9.30.05 PM.jpeg' to 'Images' folder.
+2025-06-26 12:25:10,074 - INFO - Moved 'workpress.pem' to 'Others' folder.
+2025-06-26 12:25:10,074 - INFO - Moved 'wps_lid.lid-i8MZ68IBRrnc.exe' to 'Others' folder.
+2025-06-26 12:25:10,074 - INFO - Moved 'WT LAB MANUAL (1).docx' to 'Documents' folder.
+2025-06-26 12:25:10,074 - INFO - Moved 'WT LAB MANUAL (2).docx' to 'Documents' folder.
+2025-06-26 12:25:10,074 - INFO - Moved 'WT LAB MANUAL.docx' to 'Documents' folder.
+2025-06-26 12:25:10,081 - INFO - Moved 'xampp-windows-x64-8.2.12-0-VS16-installer.exe' to 'Others' folder.
+2025-06-26 12:25:10,081 - INFO - Moved 'ZoomInstallerFull (1).exe' to 'Others' folder.
+2025-06-26 12:25:10,085 - INFO - Moved 'ZoomInstallerFull.exe' to 'Others' folder.
+2025-06-26 12:25:10,085 - INFO - Moved '_[ You are SELECTED ] for personal interview with 48,000 per month salary _ Your Application has been shortlisted.eml' to 'Others' folder.
+2025-06-26 12:28:52,247 - INFO - Moved '#mahadev.jpeg' to 'Images' folder.
+2025-06-26 12:28:52,248 - INFO - Moved '098b3ed1-3afc-4ea0-8e48-f1a0ae9d09f9.jpeg' to 'Images' folder.
+2025-06-26 12:28:52,250 - INFO - Moved '6333_Reading-a-book-on-green-meadow-relaxing-summer-time.jpg' to 'Images' folder.
+2025-06-26 12:28:52,251 - INFO - Moved 'ActivityDig.drawio.png' to 'Images' folder.
+2025-06-26 12:28:52,252 - INFO - Moved 'alteryx-foundational-micro-credential.png' to 'Images' folder.
+2025-06-26 12:28:52,254 - INFO - Moved 'belive in yourself.jpeg' to 'Images' folder.
+2025-06-26 12:28:52,255 - INFO - Moved 'bk 1.jpg' to 'Images' folder.
+2025-06-26 12:28:52,279 - INFO - Moved 'Book Stack Hd Transparent, A Stack Of Books Decoration Illustration, Book Clipart, A Stack Of Books, School Supplies PNG Image For Free Download (1).jpeg' to 'Images' folder.
+2025-06-26 12:28:52,282 - INFO - Moved 'Book Stack Hd Transparent, A Stack Of Books Decoration Illustration, Book Clipart, A Stack Of Books, School Supplies PNG Image For Free Download.jpeg' to 'Images' folder.
+2025-06-26 12:28:52,285 - INFO - Moved 'Book Stack White Transparent, Neatly Stacked Books With Sketch Lines, Sketch, Line, Stacking PNG Image For Free Download.jpeg' to 'Images' folder.
+2025-06-26 12:28:52,287 - INFO - Moved 'books bg.jpg' to 'Images' folder.
+2025-06-26 12:28:52,288 - INFO - Moved 'books download.jpeg' to 'Images' folder.
+2025-06-26 12:28:52,290 - INFO - Moved 'ccna-introduction-to-networks.png' to 'Images' folder.
+2025-06-26 12:28:52,291 - INFO - Moved 'ccna-switching-routing-and-wireless-essentials.1.png' to 'Images' folder.
+2025-06-26 12:28:52,293 - INFO - Moved 'ChatGPT Image Apr 23, 2025, 03_21_39 PM (1).png' to 'Images' folder.
+2025-06-26 12:28:52,296 - INFO - Moved 'ChatGPT Image Apr 23, 2025, 03_21_39 PM.png' to 'Images' folder.
+2025-06-26 12:28:52,297 - INFO - Moved 'deepwork.jpg' to 'Images' folder.
+2025-06-26 12:28:52,298 - INFO - Moved 'desktop-wallpaper-background-for-html-page-html-css.jpg' to 'Images' folder.
+2025-06-26 12:28:52,300 - INFO - Moved 'dowmload 4.png' to 'Images' folder.
+2025-06-26 12:28:52,301 - INFO - Moved 'download (1).jpeg' to 'Images' folder.
+2025-06-26 12:28:52,302 - INFO - Moved 'download 1.png' to 'Images' folder.
+2025-06-26 12:28:52,303 - INFO - Moved 'download 2.png' to 'Images' folder.
+2025-06-26 12:28:52,304 - INFO - Moved 'download 3.png' to 'Images' folder.
+2025-06-26 12:28:52,305 - INFO - Moved 'download 5.png' to 'Images' folder.
+2025-06-26 12:28:52,305 - INFO - Moved 'download.jpeg' to 'Images' folder.
+2025-06-26 12:28:52,306 - INFO - Moved 'e3be09bd-ba12-4b9d-831b-92e4606d3930.jpeg' to 'Images' folder.
+2025-06-26 12:28:52,306 - INFO - Moved 'email_security_associate.png' to 'Images' folder.
+2025-06-26 12:28:52,307 - INFO - Moved 'f55c258e826e.png' to 'Images' folder.
+2025-06-26 12:28:52,308 - INFO - Moved 'fb48443ec9d3.png' to 'Images' folder.
+2025-06-26 12:28:52,309 - INFO - Moved 'file_security_associate.png' to 'Images' folder.
+2025-06-26 12:28:52,310 - INFO - Moved 'Free Vector _ Hand drawn flat design stack of books illustration.jpeg' to 'Images' folder.
+2025-06-26 12:28:52,311 - INFO - Moved 'githa.jpeg' to 'Images' folder.
+2025-06-26 12:28:52,312 - INFO - Moved 'ima.jpg' to 'Images' folder.
+2025-06-26 12:28:52,312 - INFO - Moved 'ima2.jpg' to 'Images' folder.
+2025-06-26 12:28:52,313 - INFO - Moved 'ima3.jpeg' to 'Images' folder.
+2025-07-01 14:36:21,033 - INFO - Created folder: C:\Users\karri\Documents\Others
+2025-07-01 14:36:21,033 - INFO - Moved 'data1.csv' to 'Others' folder.
+2025-07-01 14:37:08,565 - ERROR - Invalid directory: C:\Users\karri\Screenshots
